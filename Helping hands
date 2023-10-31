@@ -1,0 +1,10 @@
+Game:
+  https://github.com/JoanRiosiPla/communopoly/tree/main/source all the cards and the board itself
+
+Network:
+  https://www.techwithtim.net/tutorials/python-online-game-tutorial "Create online multiplayer games with python & networking."
+  https://stackoverflow.com/questions/9961752/basic-networking-with-pygame "Basic networking with Pygame"
+    http://codepad.org/p9lVrmqn , http://codepad.org/e6pwGj24 (needs your own bg.png and sprite.png)
+  https://gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/ "What Every Programmer Needs To Know About Game Networking"
+
+Pygame:
